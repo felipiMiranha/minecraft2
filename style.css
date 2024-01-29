@@ -1,0 +1,51 @@
+.background{
+    background-image:url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position:center;
+    background-size: cover;
+}
+
+h2{
+    border-radius:10px;
+    width:200px;
+    padding:5px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    text-align:center;
+}
+
+h3{
+    display:inline-block;
+}
+
+span{
+    color: aqua;
+}
+
+#headInfo{
+    width:600px;
+    border-radius:10px;
+    margin-bottom:10px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#MeuCanva{
+    border-width:10px;
+    border-style: ridge;
+    background-color: aliceblue;
+    opacity:0.8;
+}
+
+.container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.note{
+    text-align: center;
+    bottom:0;
+}
